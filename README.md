@@ -30,13 +30,6 @@ After that you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.
-
 ## References
 * [How to Calculate Your Carbon Footprint](https://justenergy.com/blog/how-to-calculate-your-carbon-footprint/)
 * [How to Reduce Your Carbon Footprint](https://justenergy.com/blog/how-to-calculate-your-carbon-footprint/](https://sustainability.georgetown.edu/community-engagement/things-you-can-do/))
