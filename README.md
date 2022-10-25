@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# CO2 Calculator
 
 This project contains the front-end for the CO2 Calculator App. 
 
