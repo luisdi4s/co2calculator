@@ -15,6 +15,8 @@ There are 8 variables used to calculate the Carbon Footprint of a person inside 
 * Recicles Newspapers (boolean)
 * Recicles Aluminuim (boolean)
 
+Fill all the fields and click in "Calculate". The application will call http://localhost:3999/calculate (POST - [Back-end](https://github.com/luisdi4s/co2calculator-api/blob/main/index.js)) and give the results right away. 
+
 ## How to run the project
 
 In the project directory, to install the necessary dependencies run: 
