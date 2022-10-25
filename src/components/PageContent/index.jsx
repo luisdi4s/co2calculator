@@ -149,7 +149,7 @@ export default function PageContent() {
 			{ result && (
 				<div className="result-container">
 					{
-						result?.result === "HIGH" ? <img className="icon-result" src={high_icon}/> : result?.result === "AVERAGE" ? <img className="icon-result" src={average_icon}/> : <img className="icon-result" src={low_icon}/>
+						result?.result === "HIGH" ? <img alt="Negative Sign" className="icon-result" src={high_icon}/> : result?.result === "AVERAGE" ? <img alt="Positive Sign" className="icon-result" src={average_icon}/> : <img alt="Congratulations Sign" className="icon-result" src={low_icon}/>
 					}
 					<Typography align="center" variant="h4"><b>{result?.result}</b></Typography>
 					<Typography align="center" variant="h6">{result?.co2_sum} pounds per year</Typography>
