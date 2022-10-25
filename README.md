@@ -2,8 +2,6 @@
 
 This project contains the front-end for the CO2 Calculator App. 
 
-<img src="src/res/print" width="200px" height="435"/>
-
 ## How does it work?
 
 There are 8 variables used to calculate the Carbon Footprint of a person inside the application: 
