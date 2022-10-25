@@ -17,14 +17,16 @@ There are 8 variables used to calculate the Carbon Footprint of a person inside 
 
 ## How to run the project
 
-In the project directory, you can run:
+In the project directory, to install the necessary dependencies run: 
+
+### `npm i`
+
+After that you can run:
 
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.
 
 ### `npm run build`
 
